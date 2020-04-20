@@ -1,4 +1,3 @@
-# R codes for the functional continuum regression
 ## Instruction
 - Tested at RStudio. 
 - Unzip.
