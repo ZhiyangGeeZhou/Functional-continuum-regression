@@ -4,6 +4,6 @@
 - Tested under the environment of RStudio. 
 - Run the main.realdata.R and main.simulate.R for real and simulated data analysis respectively. 
 - functions.R contains all the supporting functions.
-- Rimages and figures yielded are put into folders Rimage and figure respectively.
+- Rimages and figures yielded are put into folders _Rimage_ and figure respectively.
 ## Reference 
 Z. Zhou, 2019. Functional continuum regression. Journal of Multivariate Analysis 173: 328-346. doi:10.1016/j.jmva.2019.03.006
