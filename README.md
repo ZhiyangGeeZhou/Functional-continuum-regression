@@ -1,7 +1,8 @@
 # R code for the functional continuum regression
 ## Instruction
 - Tested at RStudio. 
-- R image-files and figures yielded (by default) go into folders **Rimage** and **figure** (created by users) respectively.
+- Create folders **Rimage** and **figure**.
+- R image-files and figures yielded go into **Rimage** and **figure**, respectively.
 - **data** folder includes real data only.
 - Run R scripts **main.realdata.R** and **main.simulate.R** for real and simulated data analysis respectively. 
 - **functions.R** contains all the supporting functions.
