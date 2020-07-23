@@ -8,5 +8,5 @@
 - R image-files and figures yielded go into **Rimage** and **figure**, respectively.
 
 ## Reference 
-**Zhou, Z**. (2019). Functional continuum regression. _Journal of Multivariate Analysis_, 173, 328-346. 
+**Zhou, Z.** (2019). Functional continuum regression. _Journal of Multivariate Analysis_, 173, 328-346. 
 [doi:10.1016/j.jmva.2019.03.006](https://dx.doi.org/10.1016/j.jmva.2019.03.006)
